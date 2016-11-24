@@ -1,0 +1,2 @@
+PxButton	KEYWORD1
+wasPushed	KEYWORD2
